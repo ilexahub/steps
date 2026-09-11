@@ -21,8 +21,6 @@ Telegram Mini App для тренировки базовых шагов: муз�
 | --- | --- |
 | ![Настройки](screenshots/03-settings.png) | ![Палитра](screenshots/04-palette.png) |
 
-![Выбор музыки](screenshots/05-music-sheet.png)
-
 ## Контакт
 
 В приложении: **Настройки → Написать разработчику**.
