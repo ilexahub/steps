@@ -15,6 +15,15 @@ Mini App для Мессенджера: тренировка базовых ша
 
 В приложении: **Настройки → Написать разработчику**
 
+## Правовая информация
+
+- [Политика конфиденциальности](PRIVACY.md)
+- [Условия использования](TERMS.md)
+
+Эти же ссылки открываются из приложения (**Настройки**). Для кабинета ВКонтакте удобны прямые URL:
+
+- https://github.com/ilexahub/steps/blob/master/PRIVACY.md
+- https://github.com/ilexahub/steps/blob/master/TERMS.md
 
 История версий: [ChangeLog](CHANGELOG.md)
 
