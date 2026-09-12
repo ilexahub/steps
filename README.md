@@ -26,6 +26,11 @@ Mini App для Мессенджера: тренировка базовых ша
 - https://github.com/ilexahub/steps/blob/master/PRIVACY.md
 - https://github.com/ilexahub/steps/blob/master/TERMS.md
 
+## Площадки
+
+- Мессенджер / MAX / ВКонтакте (Mini App). Одноклассники — в планах после модерации ВК.
+- Самопроверка перед модерацией ВК: [VK-SELF-CHECK.md](VK-SELF-CHECK.md)
+
 История версий: [ChangeLog](CHANGELOG.md)
 
 ## Скриншоты
