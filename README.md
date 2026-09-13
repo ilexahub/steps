@@ -42,9 +42,13 @@ Mini App для Мессенджера: тренировка базовых ша
 | --- | --- |
 | ![Настройки](screenshots/light/03-settings.png) | ![Палитра](screenshots/light/04-palette.png) |
 
-| Музыка (mp3) | Запись с камерой |
+| Музыка (mp3) | Камера (маленькое) |
 | --- | --- |
 | ![Музыка](screenshots/light/05-music-sheet.png) | ![Камера](screenshots/light/06-camera-rec.png) |
+
+| Камера на весь экран | |
+| --- | --- |
+| ![Камера полный кадр](screenshots/light/07-camera-full.png) | |
 
 ### Тёмная тема
 
@@ -56,6 +60,10 @@ Mini App для Мессенджера: тренировка базовых ша
 | --- | --- |
 | ![Настройки](screenshots/dark/03-settings.png) | ![Палитра](screenshots/dark/04-palette.png) |
 
-| Музыка (mp3) | Запись с камерой |
+| Музыка (mp3) | Камера (маленькое) |
 | --- | --- |
 | ![Музыка](screenshots/dark/05-music-sheet.png) | ![Камера](screenshots/dark/06-camera-rec.png) |
+
+| Камера на весь экран | |
+| --- | --- |
+| ![Камера полный кадр](screenshots/dark/07-camera-full.png) | |
