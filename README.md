@@ -30,10 +30,32 @@ Mini App для Мессенджера: тренировка базовых ша
 
 ## Скриншоты
 
+Цветовая схема **Терракота** (первая в списке). Полный набор — в `screenshots/light/` и `screenshots/dark/`.
+
+### Светлая тема
+
 | Лента | В движении |
 | --- | --- |
-| ![Лента в покое](screenshots/01-idle.png) | ![Лента в движении](screenshots/02-running.png) |
+| ![Лента в покое](screenshots/light/01-idle.png) | ![Лента в движении](screenshots/light/02-running.png) |
 
 | Настройки | Цветовая схема |
 | --- | --- |
-| ![Настройки](screenshots/03-settings.png) | ![Палитра](screenshots/04-palette.png) |
+| ![Настройки](screenshots/light/03-settings.png) | ![Палитра](screenshots/light/04-palette.png) |
+
+| Музыка (mp3) | Запись с камерой |
+| --- | --- |
+| ![Музыка](screenshots/light/05-music-sheet.png) | ![Камера](screenshots/light/06-camera-rec.png) |
+
+### Тёмная тема
+
+| Лента | В движении |
+| --- | --- |
+| ![Лента в покое](screenshots/dark/01-idle.png) | ![Лента в движении](screenshots/dark/02-running.png) |
+
+| Настройки | Цветовая схема |
+| --- | --- |
+| ![Настройки](screenshots/dark/03-settings.png) | ![Палитра](screenshots/dark/04-palette.png) |
+
+| Музыка (mp3) | Запись с камерой |
+| --- | --- |
+| ![Музыка](screenshots/dark/05-music-sheet.png) | ![Камера](screenshots/dark/06-camera-rec.png) |
