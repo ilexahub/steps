@@ -38,17 +38,17 @@ Mini App для Мессенджера: тренировка базовых ша
 | --- | --- |
 | ![Лента в покое](screenshots/light/01-idle.png) | ![Лента в движении](screenshots/light/02-running.png) |
 
-| Настройки | Цветовая схема |
+| Настройки | Цепочка шагов |
 | --- | --- |
-| ![Настройки](screenshots/light/03-settings.png) | ![Палитра](screenshots/light/04-palette.png) |
+| ![Настройки](screenshots/light/03-settings.png) | ![Цепочка шагов](screenshots/light/08-steps.png) |
 
-| Музыка (mp3) | Камера (маленькое) |
+| Цветовая схема | Музыка (mp3) |
 | --- | --- |
-| ![Музыка](screenshots/light/05-music-sheet.png) | ![Камера](screenshots/light/06-camera-rec.png) |
+| ![Палитра](screenshots/light/04-palette.png) | ![Музыка](screenshots/light/05-music-sheet.png) |
 
-| Камера на весь экран | |
+| Камера (маленькое) | Камера на весь экран |
 | --- | --- |
-| ![Камера полный кадр](screenshots/light/07-camera-full.png) | |
+| ![Камера](screenshots/light/06-camera-rec.png) | ![Камера полный кадр](screenshots/light/07-camera-full.png) |
 
 ### Тёмная тема
 
@@ -56,14 +56,14 @@ Mini App для Мессенджера: тренировка базовых ша
 | --- | --- |
 | ![Лента в покое](screenshots/dark/01-idle.png) | ![Лента в движении](screenshots/dark/02-running.png) |
 
-| Настройки | Цветовая схема |
+| Настройки | Цепочка шагов |
 | --- | --- |
-| ![Настройки](screenshots/dark/03-settings.png) | ![Палитра](screenshots/dark/04-palette.png) |
+| ![Настройки](screenshots/dark/03-settings.png) | ![Цепочка шагов](screenshots/dark/08-steps.png) |
 
-| Музыка (mp3) | Камера (маленькое) |
+| Цветовая схема | Музыка (mp3) |
 | --- | --- |
-| ![Музыка](screenshots/dark/05-music-sheet.png) | ![Камера](screenshots/dark/06-camera-rec.png) |
+| ![Палитра](screenshots/dark/04-palette.png) | ![Музыка](screenshots/dark/05-music-sheet.png) |
 
-| Камера на весь экран | |
+| Камера (маленькое) | Камера на весь экран |
 | --- | --- |
-| ![Камера полный кадр](screenshots/dark/07-camera-full.png) | |
+| ![Камера](screenshots/dark/06-camera-rec.png) | ![Камера полный кадр](screenshots/dark/07-camera-full.png) |
