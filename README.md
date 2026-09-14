@@ -42,6 +42,10 @@ Mini App для Мессенджера: тренировка базовых ша
 | --- | --- |
 | ![Настройки](screenshots/light/03-settings.png) | ![Цепочка шагов](screenshots/light/08-steps.png) |
 
+| Движение плашек | |
+| --- | --- |
+| ![Движение плашек](screenshots/light/09-motion.png) | |
+
 | Цветовая схема | Музыка (mp3) |
 | --- | --- |
 | ![Палитра](screenshots/light/04-palette.png) | ![Музыка](screenshots/light/05-music-sheet.png) |
@@ -59,6 +63,10 @@ Mini App для Мессенджера: тренировка базовых ша
 | Настройки | Цепочка шагов |
 | --- | --- |
 | ![Настройки](screenshots/dark/03-settings.png) | ![Цепочка шагов](screenshots/dark/08-steps.png) |
+
+| Движение плашек | |
+| --- | --- |
+| ![Движение плашек](screenshots/dark/09-motion.png) | |
 
 | Цветовая схема | Музыка (mp3) |
 | --- | --- |
