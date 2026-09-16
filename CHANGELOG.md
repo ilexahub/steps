@@ -1,10 +1,12 @@
-# Changelog
+﻿# Changelog
 
 <table width="100%">
 <tr><td width="100%">
 
 **Android**
 
+
+- **Важные шаги 1.0.9** — ярлык «Важные шаги», новая иконка; APK в [Releases](https://github.com/ilexahub/steps/releases/tag/stepslight-1.0.9).
 - **STEPSLight 1.0.8** — Android-оболочка: скачивание APK из [Releases](https://github.com/ilexahub/steps/releases/tag/stepslight-1.0.8). Внутри — тот же тренажёр (метроном, музыка, камера); обновления ставятся из приложения.
 
 </td></tr>

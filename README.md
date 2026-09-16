@@ -1,15 +1,15 @@
-# STeps — Тренажер для отработки движений
+﻿# STeps — Тренажер для отработки движений
 
 Mini App для Мессенджера: тренировка базовых шагов, музыкальный счёт **1…8**, вертикальная лента плашек и смена названия на долях **5** и **1**.
 
 **Открыть:** [Gung Fu STeps](https://t.me/GungFuBot/STep)
 
-## Android — STEPSLight
+## Android — Важные шаги
 
 То же приложение в лёгкой Android-оболочке: метроном, музыка, камера, «Мои записи», обновления без магазина.
 
-**Скачать APK:** [STEPSLight 1.0.8](https://github.com/ilexahub/steps/releases/tag/stepslight-1.0.8)  
-(в Assets — `STEPSLight-1.0.8-release.apk`)
+**Скачать APK:** [Важные шаги 1.0.9](https://github.com/ilexahub/steps/releases/tag/stepslight-1.0.9)  
+(в Assets — `stepslight-1.0.9-release.apk`)
 
 На телефоне разрешите установку из этого источника (браузер / «Загрузки» / файловый менеджер), затем откройте скачанный файл.
 
