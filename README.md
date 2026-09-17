@@ -8,8 +8,8 @@ Mini App для Мессенджера: тренировка базовых ша
 
 То же приложение в лёгкой Android-оболочке: метроном, музыка, камера, «Мои записи», обновления без магазина.
 
-**Скачать APK:** [Важные шаги 1.0.9](https://github.com/ilexahub/steps/releases/tag/stepslight-1.0.9)  
-(в Assets — `stepslight-1.0.9-release.apk`)
+**Скачать APK:** [Важные шаги 1.0.12](https://github.com/ilexahub/steps/releases/tag/stepslight-1.0.12)  
+(в Assets — `STEPSLight-1.0.12-release.apk`)
 
 На телефоне разрешите установку из этого источника (браузер / «Загрузки» / файловый менеджер), затем откройте скачанный файл.
 
