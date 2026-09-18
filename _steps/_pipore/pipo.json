@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-17T16:16:26Z",
+  "updated_at": "2026-09-18T15:13:04Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -97,6 +97,25 @@
       "origin_sec": 0.30857142857142855,
       "engine": "percival",
       "yandex_name": "1-4 Los Van Van Juan Formell - La Maquinaria-744c8cb3e98c60da7a02f61e7f835ec9.mp3"
+    },
+    {
+      "id": 19,
+      "md5": "17c08c6d8b9b53ea02508c4576bf48f7",
+      "filename": "1-5 Ivan El Hijo de Teresa y la Llegada - Donde estas.mp3",
+      "title": "Donde estas",
+      "artist": "Ivan El Hijo de Teresa y la Llegada",
+      "duration_sec": 278.0,
+      "file_size": 11364195,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 168.0,
+      "bpm_raw": 168.0,
+      "phase_offset": 4,
+      "origin_sec": 0.32369498059463836,
+      "engine": "comb",
+      "yandex_name": "1-5 Ivan El Hijo de Teresa y la Llegada - Donde estas-17c08c6d8b9b53ea02508c4576bf48f7.mp3"
     },
     {
       "id": 8,
@@ -306,6 +325,25 @@
       "origin_sec": 0.12917470853018004,
       "engine": "comb",
       "yandex_name": "1-3 SOUNDS OF CUBA - Dile a tu novio-c00a799c6cf0de874a04b78b9a04f3bc.mp3"
+    },
+    {
+      "id": 18,
+      "md5": "137809a00a5c917f7cd8a5c057020fb8",
+      "filename": "1-5 Elito Reve y su Charangon - El cosquilleo.mp3",
+      "title": "El cosquilleo",
+      "artist": "Elito Reve y su Charangon",
+      "duration_sec": 245.0,
+      "file_size": 9965604,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 200.0,
+      "bpm_raw": 200.0,
+      "phase_offset": 0,
+      "origin_sec": 0.06095133904914934,
+      "engine": "essentia",
+      "yandex_name": "1-5 Elito Reve y su Charangon - El cosquilleo-137809a00a5c917f7cd8a5c057020fb8.mp3"
     }
   ]
 }
