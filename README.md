@@ -41,7 +41,7 @@ Mini App для Мессенджера: тренировка базовых ша
 
 Цветовая схема **Терракота** (первая в списке). Полный набор — в `screenshots/light/` и `screenshots/dark/`.
 
-Короткий обзор кнопок одним роликом (~50 КБ): [coach/obzor.webp](coach/obzor.webp). Отдельные кадры — `coach/01-speed.webp` … `coach/10-templates.webp`.
+Короткий обзор кнопок одним роликом (~75 КБ, 400×800): [coach/obzor.webp](coach/obzor.webp). Отдельные кадры — `coach/01-speed.webp` … `coach/10-templates.webp`.
 
 ### Светлая тема
 
