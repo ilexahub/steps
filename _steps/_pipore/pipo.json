@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-20T20:30:51Z",
+  "updated_at": "2026-09-20T20:37:15Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -97,6 +97,25 @@
       "origin_sec": 0.30857142857142855,
       "engine": "percival",
       "yandex_name": "1-4 Los Van Van Juan Formell - La Maquinaria-744c8cb3e98c60da7a02f61e7f835ec9.mp3"
+    },
+    {
+      "id": 22,
+      "md5": "83bb548eb255e712b527992c5868d4cf",
+      "filename": "- Eduardo Moreno & Okocán - Lo Más Bello Es Lo Más Simple.mp3",
+      "title": "- Eduardo Moreno & Okocán - Lo Más Bello Es Lo Más Simple",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 9189793,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 165.0,
+      "bpm_raw": 164.8,
+      "phase_offset": 4,
+      "origin_sec": 0.1308554147806507,
+      "engine": "comb",
+      "yandex_name": "- Eduardo Moreno & Okocán - Lo Más Bello Es Lo Más Simple-83bb548eb255e712b527992c5868d4cf.mp3"
     },
     {
       "id": 21,
