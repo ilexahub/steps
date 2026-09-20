@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-20T20:17:08Z",
+  "updated_at": "2026-09-20T20:30:51Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -97,6 +97,25 @@
       "origin_sec": 0.30857142857142855,
       "engine": "percival",
       "yandex_name": "1-4 Los Van Van Juan Formell - La Maquinaria-744c8cb3e98c60da7a02f61e7f835ec9.mp3"
+    },
+    {
+      "id": 21,
+      "md5": "8c5f3bd1d73c0f8f81895559fa3e39e4",
+      "filename": "- DJ Ricky Campanelli - Tras la Tormenta.mp3",
+      "title": "- DJ Ricky Campanelli - Tras la Tormenta",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 14312929,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 168.0,
+      "bpm_raw": 167.8,
+      "phase_offset": 1,
+      "origin_sec": 0.061463423439504,
+      "engine": "comb",
+      "yandex_name": "- DJ Ricky Campanelli - Tras la Tormenta-8c5f3bd1d73c0f8f81895559fa3e39e4.mp3"
     },
     {
       "id": 19,
