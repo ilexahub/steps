@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-20T20:46:29Z",
+  "updated_at": "2026-09-20T20:49:11Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -40,6 +40,25 @@
       "origin_sec": 0.2687768572053934,
       "engine": "comb",
       "yandex_name": "- Daiquiri - Morir De Amor-b56d87d0cb31f06f8021e972f9b8926c.mp3"
+    },
+    {
+      "id": 24,
+      "md5": "09c4faf58864354a2dd1e87b2ad6a0ee",
+      "filename": "- Marc Anthony - Un Amor Eterno.mp3",
+      "title": "- Marc Anthony - Un Amor Eterno",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 10352764,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 158.0,
+      "bpm_raw": 157.8,
+      "phase_offset": 1,
+      "origin_sec": 0.3683446826212301,
+      "engine": "percival",
+      "yandex_name": "- Marc Anthony - Un Amor Eterno-09c4faf58864354a2dd1e87b2ad6a0ee.mp3"
     },
     {
       "id": 12,
