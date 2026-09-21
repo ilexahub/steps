@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T14:06:34Z",
+  "updated_at": "2026-09-21T14:20:51Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -458,6 +458,25 @@
       "origin_sec": 0.12917470853018004,
       "engine": "comb",
       "yandex_name": "1-3 SOUNDS OF CUBA - Dile a tu novio-c00a799c6cf0de874a04b78b9a04f3bc.mp3"
+    },
+    {
+      "id": 27,
+      "md5": "01d1825cd9814c6f5f2c45c9f094455b",
+      "filename": "2-1 Andy Rubal - Baila y Confía.mp3",
+      "title": "Baila y Confía",
+      "artist": "Andy Rubal",
+      "duration_sec": 244.0,
+      "file_size": 9766416,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 196.6,
+      "bpm_raw": 196.6,
+      "phase_offset": 0,
+      "origin_sec": 0.1096546901867447,
+      "engine": "fallback",
+      "yandex_name": "2-1 Andy Rubal - Baila y Confía-01d1825cd9814c6f5f2c45c9f094455b.mp3"
     },
     {
       "id": 18,
