@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T16:54:21Z",
+  "updated_at": "2026-09-22T07:43:44Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -249,6 +249,25 @@
       "origin_sec": 0.22625502589992016,
       "engine": "comb",
       "yandex_name": "- Ivan Venot - 5 Minutos-ec14d8c07096b09d0fea8fe65c74b195.mp3"
+    },
+    {
+      "id": 28,
+      "md5": "7b68a7f758dbc8f9fde403a3086382a0",
+      "filename": "2-2 Lachy Y La Suprema Ley - Chica Material.mp3",
+      "title": "Chica Material",
+      "artist": "Lachy Y La Suprema Ley",
+      "duration_sec": 256.0,
+      "file_size": 10249448,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 170.0,
+      "bpm_raw": 169.8,
+      "phase_offset": 1,
+      "origin_sec": 0.22090945343684001,
+      "engine": "comb",
+      "yandex_name": "2-2 Lachy Y La Suprema Ley - Chica Material-7b68a7f758dbc8f9fde403a3086382a0.mp3"
     },
     {
       "id": 10,
