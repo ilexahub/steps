@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T07:20:08Z",
+  "updated_at": "2026-09-23T10:04:16Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -325,6 +325,25 @@
       "origin_sec": 0.06965986394557823,
       "engine": "fallback",
       "yandex_name": "- Bad Bunny - BAILE INoLVIDABLE (No Intro)-6edad63ac9d903fd53a4a353ee0df271.mp3"
+    },
+    {
+      "id": 89,
+      "md5": "8c7d8bea14e51e3dfc0ea39610601c01",
+      "filename": "2-3 Los DJs Timberos, Mayito Rivera - Cosas Prohibidas.mp3",
+      "title": "Cosas Prohibidas",
+      "artist": "Los DJs Timberos, Mayito Rivera",
+      "duration_sec": 269.0,
+      "file_size": 10803295,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 180.0,
+      "bpm_raw": 179.8,
+      "phase_offset": 7,
+      "origin_sec": 0.29206349637518153,
+      "engine": "percival",
+      "yandex_name": "2-3 Los DJs Timberos, Mayito Rivera - Cosas Prohibidas-8c7d8bea14e51e3dfc0ea39610601c01.mp3"
     },
     {
       "id": 6,
