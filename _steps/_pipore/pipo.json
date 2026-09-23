@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T10:40:02Z",
+  "updated_at": "2026-09-23T10:47:18Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -21,6 +21,25 @@
       "origin_sec": 0.1370067999905639,
       "engine": "percival",
       "yandex_name": "- Celia Cruz - Oye Como Va (Latin Trance Mix)-96af9703ee42c0ec28e88e0d658a0c69.mp3"
+    },
+    {
+      "id": 35,
+      "md5": "40c3af3716b6eeffb43522f049e71d5d",
+      "filename": "- Борис Эча - Тайна.mp3",
+      "title": "Тайна",
+      "artist": "Борис Эча",
+      "duration_sec": null,
+      "file_size": 9851977,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 150.0,
+      "bpm_raw": 150.1,
+      "phase_offset": 0,
+      "origin_sec": 0.41795918345451355,
+      "engine": "essentia",
+      "yandex_name": "- Борис Эча - Тайна-40c3af3716b6eeffb43522f049e71d5d.mp3"
     },
     {
       "id": 32,
