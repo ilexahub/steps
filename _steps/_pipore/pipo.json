@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T11:43:18Z",
+  "updated_at": "2026-09-23T15:41:58Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
       "id": 41,
       "md5": "3e844d7bedd8ff97e9fe8695c4666e71",
-      "filename": "Markscheider - Танец бабушки-бомжа.mp3",
+      "filename": "- Markscheider - Танец бабушки-бомжа.mp3",
       "title": "Markscheider - Танец бабушки-бомжа",
-      "artist": "",
+      "artist": "Markscheider",
       "duration_sec": null,
       "file_size": 7850515,
       "enabled": true,
@@ -20,7 +20,7 @@
       "phase_offset": 1,
       "origin_sec": 0.0,
       "engine": "fallback",
-      "yandex_name": "Markscheider - Танец бабушки-бомжа-3e844d7bedd8ff97e9fe8695c4666e71.mp3"
+      "yandex_name": "- Markscheider - Танец бабушки-бомжа-3e844d7bedd8ff97e9fe8695c4666e71.mp3"
     },
     {
       "id": 7,
