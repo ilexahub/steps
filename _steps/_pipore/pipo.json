@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T10:07:40Z",
+  "updated_at": "2026-09-23T10:23:48Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -291,9 +291,9 @@
     {
       "id": 88,
       "md5": "aa24e4aa262f9d3e3711297b5fa9c539",
-      "filename": "2-3 Chacha.mp3",
-      "title": "2-3 Chacha",
-      "artist": "",
+      "filename": "2-3 Wampi & Los Van Van - Chacha.mp3",
+      "title": "Chacha",
+      "artist": "Wampi & Los Van Van",
       "duration_sec": 235.0,
       "file_size": 7450413,
       "enabled": true,
@@ -305,7 +305,7 @@
       "phase_offset": 4,
       "origin_sec": 0.2891373795218533,
       "engine": "comb",
-      "yandex_name": "2-3 Chacha-aa24e4aa262f9d3e3711297b5fa9c539.mp3"
+      "yandex_name": "2-3 Wampi & Los Van Van - Chacha-aa24e4aa262f9d3e3711297b5fa9c539.mp3"
     },
     {
       "id": 20,
