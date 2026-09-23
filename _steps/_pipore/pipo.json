@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T10:24:09Z",
+  "updated_at": "2026-09-23T10:36:25Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -325,6 +325,25 @@
       "origin_sec": 0.23877550861782854,
       "engine": "percival",
       "yandex_name": "- Willy Calderon - Ifa-f0ea7e6a5e0e84235b96ca25c49fd30e.mp3"
+    },
+    {
+      "id": 75,
+      "md5": "a008a7e40500d96be72027d6883d0b01",
+      "filename": "- плавает ритм в середине Latino Girls - Sex and the city salsa remix.mp3",
+      "title": "Sex and the city Salsa remix",
+      "artist": "Latino Girls",
+      "duration_sec": null,
+      "file_size": 8135916,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 177.0,
+      "bpm_raw": 175.9,
+      "phase_offset": 3,
+      "origin_sec": 0.29852915861955553,
+      "engine": "fallback",
+      "yandex_name": "- плавает ритм в середине Latino Girls - Sex and the city salsa remix-a008a7e40500d96be72027d6883d0b01.mp3"
     },
     {
       "id": 4,
