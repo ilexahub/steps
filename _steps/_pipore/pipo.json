@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T10:36:25Z",
+  "updated_at": "2026-09-23T10:39:43Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -21,6 +21,25 @@
       "origin_sec": 0.1370067999905639,
       "engine": "percival",
       "yandex_name": "- Celia Cruz - Oye Como Va (Latin Trance Mix)-96af9703ee42c0ec28e88e0d658a0c69.mp3"
+    },
+    {
+      "id": 32,
+      "md5": "57d044421d79a56f3f07c273c9bea53f",
+      "filename": "- Salsa Boys - Guantanomera.mp3",
+      "title": "Guantanomera",
+      "artist": "Salsa Boys",
+      "duration_sec": null,
+      "file_size": 9038245,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 156.0,
+      "bpm_raw": 156.0,
+      "phase_offset": 1,
+      "origin_sec": 0.2884748707674895,
+      "engine": "essentia",
+      "yandex_name": "- Salsa Boys - Guantanomera-57d044421d79a56f3f07c273c9bea53f.mp3"
     },
     {
       "id": 2,
