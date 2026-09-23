@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T11:28:30Z",
+  "updated_at": "2026-09-23T11:35:31Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -230,6 +230,25 @@
       "origin_sec": 0.16308390552344035,
       "engine": "percival",
       "yandex_name": "- Miles Pena - De Poquito a Poquito-0dd9a231a84e910b431e8bed5da82029.mp3"
+    },
+    {
+      "id": 70,
+      "md5": "bb1888d90f86210f08da4e1a2541424f",
+      "filename": "- ускоряется в конце Calle Vapor - Vente Negra.mp3",
+      "title": "Vente Negra",
+      "artist": "Calle Vapor",
+      "duration_sec": null,
+      "file_size": 12237065,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 166.0,
+      "bpm_raw": 166.4,
+      "phase_offset": 2,
+      "origin_sec": 0.11266213318020157,
+      "engine": "essentia",
+      "yandex_name": "- ускоряется в конце Calle Vapor - Vente Negra-bb1888d90f86210f08da4e1a2541424f.mp3"
     },
     {
       "id": 21,
