@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T06:59:27Z",
+  "updated_at": "2026-09-24T11:54:30Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -781,25 +781,6 @@
       "origin_sec": 0.26180744086474195,
       "engine": "comb",
       "yandex_name": "- Nic N'Taya, Marlon Caro - Saka Laka Tiki Taka-811878aa58f7e32b16af5dc565e6262d.mp3"
-    },
-    {
-      "id": 44,
-      "md5": "ab78d235c42e7319d9a3c45787b8640b",
-      "filename": "- Mo NATIK - Каждый Раз.mp3",
-      "title": "- Mo NATIK - Каждый Раз",
-      "artist": "",
-      "duration_sec": null,
-      "file_size": 9569451,
-      "enabled": true,
-      "source_kind": "yandex",
-      "has_mirror": true,
-      "has_yandex": true,
-      "bpm": 236.0,
-      "bpm_raw": 117.8,
-      "phase_offset": 5,
-      "origin_sec": 0.5224489569664001,
-      "engine": "essentia",
-      "yandex_name": "- Mo NATIK - Каждый Раз-ab78d235c42e7319d9a3c45787b8640b.mp3"
     }
   ]
 }
