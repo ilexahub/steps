@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T14:57:59Z",
+  "updated_at": "2026-09-24T15:03:07Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -724,6 +724,25 @@
       "origin_sec": 0.034141933849050544,
       "engine": "essentia",
       "yandex_name": "1-3 Bamboleo - Chocolate Pa´Mi Leche-b1771cb13b8eca4b8a204853856f1c83.mp3"
+    },
+    {
+      "id": 30,
+      "md5": "1cef101c9fb5b42fe1bde47949c704a8",
+      "filename": "- La maxima 79 - La gripe.mp3",
+      "title": "La gripe",
+      "artist": "La maxima 79",
+      "duration_sec": null,
+      "file_size": 6465263,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 192.0,
+      "bpm_raw": 192.1,
+      "phase_offset": 1,
+      "origin_sec": 0.043912166138173704,
+      "engine": "essentia",
+      "yandex_name": "- La maxima 79 - La gripe-1cef101c9fb5b42fe1bde47949c704a8.mp3"
     },
     {
       "id": 58,
