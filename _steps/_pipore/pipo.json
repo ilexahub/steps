@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T14:52:04Z",
+  "updated_at": "2026-09-24T14:57:11Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -819,6 +819,25 @@
       "origin_sec": 0.06095133904914934,
       "engine": "essentia",
       "yandex_name": "1-5 Elito Reve y su Charangon - El cosquilleo-137809a00a5c917f7cd8a5c057020fb8.mp3"
+    },
+    {
+      "id": 36,
+      "md5": "47a51303a6c05d16094fca70a519af4f",
+      "filename": "Браво - Московский бит.mp3",
+      "title": "Московский бит",
+      "artist": "- с середины 2 сливки - Браво",
+      "duration_sec": null,
+      "file_size": 8078056,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 204.0,
+      "bpm_raw": 203.7,
+      "phase_offset": 0,
+      "origin_sec": 0.10126984388614636,
+      "engine": "percival",
+      "yandex_name": "Браво - Московский бит-47a51303a6c05d16094fca70a519af4f.mp3"
     },
     {
       "id": 73,
