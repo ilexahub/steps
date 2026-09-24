@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T14:40:33Z",
+  "updated_at": "2026-09-24T14:43:50Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -572,6 +572,25 @@
       "origin_sec": 0.020383354870799463,
       "engine": "essentia",
       "yandex_name": "1-2 Bumbata, FredyClan, Yoyo Flow -  Locura Sin Freno-bb28d002bf198f0822ad697afa6c2dce.mp3"
+    },
+    {
+      "id": 80,
+      "md5": "80a21a80f37f4fca3c8a5d0e958564a3",
+      "filename": "- La Maxima 79 - Te Olvidé.mp3",
+      "title": "Te Olvidé",
+      "artist": "La Maxima 79",
+      "duration_sec": null,
+      "file_size": 11495199,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 185.0,
+      "bpm_raw": 184.6,
+      "phase_offset": 0,
+      "origin_sec": 0.24888888888888888,
+      "engine": "percival",
+      "yandex_name": "- La Maxima 79 - Te Olvidé-80a21a80f37f4fca3c8a5d0e958564a3.mp3"
     },
     {
       "id": 9,
