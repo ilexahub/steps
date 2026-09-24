@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T06:46:14Z",
+  "updated_at": "2026-09-24T06:59:27Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -363,6 +363,25 @@
       "origin_sec": 0.11972789115646257,
       "engine": "percival",
       "yandex_name": "1-1 Big Naimi y Su Timbarap - Amores por internet-5eb38fbe47b94fa28f58cdd7c64a5ba3.mp3"
+    },
+    {
+      "id": 90,
+      "md5": "f534b51909281acc835c22433c305d4e",
+      "filename": "2-4 Yasser Ramos y El Tumbao Mayombe - Amigo de Q.mp3",
+      "title": "Amigo de Q",
+      "artist": "Yasser Ramos y El Tumbao Mayombe",
+      "duration_sec": 257.0,
+      "file_size": 10307962,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 175.0,
+      "bpm_raw": 175.2,
+      "phase_offset": 2,
+      "origin_sec": 0.21405895976020797,
+      "engine": "percival",
+      "yandex_name": "2-4 Yasser Ramos y El Tumbao Mayombe - Amigo de Q-f534b51909281acc835c22433c305d4e.mp3"
     },
     {
       "id": 88,
