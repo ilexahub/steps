@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T10:48:47Z",
+  "updated_at": "2026-09-25T21:27:33Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -206,10 +206,10 @@
       "has_mirror": true,
       "has_yandex": true,
       "bpm": 165.0,
-      "bpm_raw": 163.8,
+      "bpm_raw": 164.9,
       "phase_offset": 4,
-      "origin_sec": 0.30185940861701965,
-      "engine": "essentia",
+      "origin_sec": 0.03410160735384779,
+      "engine": "comb",
       "yandex_name": "2-5 Maikel Dinza - Venganza-45ad9594d365d7784d4f41e091fcec83.mp3"
     },
     {
