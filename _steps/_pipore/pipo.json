@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-28T07:15:11Z",
+  "updated_at": "2026-09-28T07:38:02Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -515,6 +515,25 @@
       "origin_sec": 0.03650793704689769,
       "engine": "percival",
       "yandex_name": "- Fabio Gianni, LunaMea Quartet - Madre Tierra-09c338fe034129414b08544097e058c0.mp3"
+    },
+    {
+      "id": 92,
+      "md5": "4a3087ee2ecb5ae5a1f7f614cad04cc3",
+      "filename": "3-1 Kamankola - No Hay Cuba Libre ft Willy Chirino.mp3",
+      "title": "o Hay Cuba Libre ft Willy Chirino",
+      "artist": "Kamankola",
+      "duration_sec": 218.0,
+      "file_size": 8734405,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 180.0,
+      "bpm_raw": 180.3,
+      "phase_offset": 4,
+      "origin_sec": 0.27561227723032583,
+      "engine": "comb",
+      "yandex_name": "3-1 Kamankola - No Hay Cuba Libre ft Willy Chirino-4a3087ee2ecb5ae5a1f7f614cad04cc3.mp3"
     },
     {
       "id": 40,
