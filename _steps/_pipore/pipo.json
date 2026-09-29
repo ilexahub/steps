@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T10:33:52Z",
+  "updated_at": "2026-09-29T10:35:58Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       "has_yandex": true,
       "bpm": 178.0,
       "bpm_raw": 178.6,
-      "phase_offset": 4,
+      "phase_offset": 3,
       "origin_sec": 0.33067448593070475,
       "engine": "comb",
       "yandex_name": "3-2 Mario y Su Timbeko - Dale Pa' Fuera-fac1ed367afff7037638c7bfcf693ccd.mp3"
