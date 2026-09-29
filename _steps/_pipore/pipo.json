@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T06:42:50Z",
+  "updated_at": "2026-09-29T10:08:00Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -173,6 +173,25 @@
       "origin_sec": 0.30857142857142855,
       "engine": "percival",
       "yandex_name": "1-4 Los Van Van Juan Formell - La Maquinaria-744c8cb3e98c60da7a02f61e7f835ec9.mp3"
+    },
+    {
+      "id": 93,
+      "md5": "841e2f0ed6e0723332a696a2dee99e1a",
+      "filename": "3-2 Guaco - Son 20 Más 30.mp3",
+      "title": "Son 20 Más 30",
+      "artist": "Guaco",
+      "duration_sec": 309.0,
+      "file_size": 12398730,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 164.0,
+      "bpm_raw": 164.1,
+      "phase_offset": 7,
+      "origin_sec": 0.36000357668007676,
+      "engine": "comb",
+      "yandex_name": "3-2 Guaco - Son 20 Más 30-841e2f0ed6e0723332a696a2dee99e1a.mp3"
     },
     {
       "id": 22,
