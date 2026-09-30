@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30T10:37:54Z",
+  "updated_at": "2026-09-30T10:44:19Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -724,6 +724,25 @@
       "origin_sec": 0.161088435017431,
       "engine": "percival",
       "yandex_name": "1-1 Combinación De La Habana - Baile Inolvidable-d0d0bcc72ab0574af2c1ec1b538826fb.mp3"
+    },
+    {
+      "id": 96,
+      "md5": "7141bc5eb27a98cc138642fb0eacda19",
+      "filename": "3-3 Coco La Figura y La Maquina Timbera - Enamorado de ti.mp3",
+      "title": "Enamorado de ti",
+      "artist": "Coco La Figura y La Maquina Timbera",
+      "duration_sec": 261.0,
+      "file_size": 10445162,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 186.0,
+      "bpm_raw": 186.2,
+      "phase_offset": 4,
+      "origin_sec": 0.03523809516006303,
+      "engine": "percival",
+      "yandex_name": "3-3 Coco La Figura y La Maquina Timbera - Enamorado de ti-7141bc5eb27a98cc138642fb0eacda19.mp3"
     },
     {
       "id": 16,
