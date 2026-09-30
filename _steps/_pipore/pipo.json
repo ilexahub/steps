@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30T07:14:17Z",
+  "updated_at": "2026-09-30T10:37:54Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -401,6 +401,25 @@
       "origin_sec": 0.11972789115646257,
       "engine": "percival",
       "yandex_name": "1-1 Big Naimi y Su Timbarap - Amores por internet-5eb38fbe47b94fa28f58cdd7c64a5ba3.mp3"
+    },
+    {
+      "id": 95,
+      "md5": "03aa78192f14df9d3165331c57b811ac",
+      "filename": "3-3 Mario y Su Timbeko - Ya no hay pa' ti.mp3",
+      "title": "Ya no hay pa' ti",
+      "artist": "Mario y Su Timbeko",
+      "duration_sec": 246.0,
+      "file_size": 7881962,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 174.0,
+      "bpm_raw": 173.7,
+      "phase_offset": 4,
+      "origin_sec": 0.12952380483906542,
+      "engine": "percival",
+      "yandex_name": "3-3 Mario y Su Timbeko - Ya no hay pa' ti-03aa78192f14df9d3165331c57b811ac.mp3"
     },
     {
       "id": 90,
