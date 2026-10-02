@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-02T10:18:48Z",
+  "updated_at": "2026-10-02T20:13:05Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -20,6 +20,8 @@
       "phase_offset": 1,
       "origin_sec": 0.0,
       "engine": "fallback",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Markscheider - Танец бабушки-бомжа-3e844d7bedd8ff97e9fe8695c4666e71.mp3"
     },
     {
@@ -39,6 +41,8 @@
       "phase_offset": 1,
       "origin_sec": 0.1370067999905639,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Celia Cruz - Oye Como Va (Latin Trance Mix)-96af9703ee42c0ec28e88e0d658a0c69.mp3"
     },
     {
@@ -58,6 +62,8 @@
       "phase_offset": 0,
       "origin_sec": 0.41795918345451355,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Борис Эча - Тайна-40c3af3716b6eeffb43522f049e71d5d.mp3"
     },
     {
@@ -77,6 +83,8 @@
       "phase_offset": 1,
       "origin_sec": 0.2884748707674895,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Salsa Boys - Guantanomera-57d044421d79a56f3f07c273c9bea53f.mp3"
     },
     {
@@ -96,6 +104,8 @@
       "phase_offset": 0,
       "origin_sec": 0.2687768572053934,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Daiquiri - Morir De Amor-b56d87d0cb31f06f8021e972f9b8926c.mp3"
     },
     {
@@ -115,6 +125,8 @@
       "phase_offset": 1,
       "origin_sec": 0.3683446826212301,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Marc Anthony - Un Amor Eterno-09c4faf58864354a2dd1e87b2ad6a0ee.mp3"
     },
     {
@@ -134,6 +146,8 @@
       "phase_offset": 1,
       "origin_sec": 0.30466227311910293,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "0-0 Счёт - El Puma DJ Y Rulo Miami - Escuela Latina-b5ecbe0b5e311597c4220c72b2d8d81e.mp3"
     },
     {
@@ -153,6 +167,8 @@
       "phase_offset": 7,
       "origin_sec": 0.3042177012218584,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-4 сбивки Pedrito Calvo - La Vida-634343b3a7319c6f2f8f24660f355243.mp3"
     },
     {
@@ -172,6 +188,8 @@
       "phase_offset": 0,
       "origin_sec": 0.3183153903985516,
       "engine": "fallback",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Negroson Orquesta - Dos Juguetes-f124820920eb5e2092e3292ae81d50a2.mp3"
     },
     {
@@ -191,6 +209,8 @@
       "phase_offset": 1,
       "origin_sec": 0.30857142857142855,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-4 Los Van Van Juan Formell - La Maquinaria-744c8cb3e98c60da7a02f61e7f835ec9.mp3"
     },
     {
@@ -210,6 +230,8 @@
       "phase_offset": 7,
       "origin_sec": 0.36000357668007676,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-2 Guaco - Son 20 Más 30-841e2f0ed6e0723332a696a2dee99e1a.mp3"
     },
     {
@@ -229,6 +251,8 @@
       "phase_offset": 4,
       "origin_sec": 0.1308554147806507,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Eduardo Moreno & Okocán - Lo Más Bello Es Lo Más Simple-83bb548eb255e712b527992c5868d4cf.mp3"
     },
     {
@@ -248,6 +272,10 @@
       "phase_offset": 4,
       "origin_sec": 0.03410160735384779,
       "engine": "comb",
+      "irregular": 1,
+      "breaks": [
+        168.081
+      ],
       "yandex_name": "2-5 сбивка на 2:48 - Maikel Dinza - Venganza-45ad9594d365d7784d4f41e091fcec83.mp3"
     },
     {
@@ -267,6 +295,8 @@
       "phase_offset": 5,
       "origin_sec": 0.16308390552344035,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Miles Pena - De Poquito a Poquito-0dd9a231a84e910b431e8bed5da82029.mp3"
     },
     {
@@ -286,6 +316,8 @@
       "phase_offset": 2,
       "origin_sec": 0.11266213318020157,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- ускоряется в конце Calle Vapor - Vente Negra-bb1888d90f86210f08da4e1a2541424f.mp3"
     },
     {
@@ -305,6 +337,8 @@
       "phase_offset": 1,
       "origin_sec": 0.061463423439504,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- DJ Ricky Campanelli - Tras la Tormenta-8c5f3bd1d73c0f8f81895559fa3e39e4.mp3"
     },
     {
@@ -324,6 +358,8 @@
       "phase_offset": 4,
       "origin_sec": 0.32369498059463836,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-5 Ivan El Hijo de Teresa y la Llegada - Donde estas-17c08c6d8b9b53ea02508c4576bf48f7.mp3"
     },
     {
@@ -343,6 +379,8 @@
       "phase_offset": 0,
       "origin_sec": 0.06693877491727984,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "0-0 Счёт - Berna Jam - Scuola Di Salsa (No Tp-Tres)-fb6158607e18b16d8d89d1e07c83053d.mp3"
     },
     {
@@ -362,6 +400,8 @@
       "phase_offset": 0,
       "origin_sec": 0.22625502589992016,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Ivan Venot - 5 Minutos-ec14d8c07096b09d0fea8fe65c74b195.mp3"
     },
     {
@@ -381,6 +421,8 @@
       "phase_offset": 0,
       "origin_sec": 0.1657720987480395,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Raul Paz - Cariño III-535af244fbd7a7615c73a61b47516c97.mp3"
     },
     {
@@ -400,6 +442,8 @@
       "phase_offset": 1,
       "origin_sec": 0.22090945343684001,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "2-2 Lachy Y La Suprema Ley - Chica Material-7b68a7f758dbc8f9fde403a3086382a0.mp3"
     },
     {
@@ -419,6 +463,8 @@
       "phase_offset": 0,
       "origin_sec": 0.11972789115646257,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-1 Big Naimi y Su Timbarap - Amores por internet-5eb38fbe47b94fa28f58cdd7c64a5ba3.mp3"
     },
     {
@@ -438,6 +484,8 @@
       "phase_offset": 4,
       "origin_sec": 0.12952380483906542,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-3 Mario y Su Timbeko - Ya no hay pa' ti-03aa78192f14df9d3165331c57b811ac.mp3"
     },
     {
@@ -457,6 +505,8 @@
       "phase_offset": 2,
       "origin_sec": 0.21405895976020797,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "2-4 Yasser Ramos y El Tumbao Mayombe - Amigo de Q-f534b51909281acc835c22433c305d4e.mp3"
     },
     {
@@ -476,6 +526,8 @@
       "phase_offset": 4,
       "origin_sec": 0.2891373795218533,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "2-3 Wampi & Los Van Van - Chacha-aa24e4aa262f9d3e3711297b5fa9c539.mp3"
     },
     {
@@ -495,6 +547,8 @@
       "phase_offset": 2,
       "origin_sec": 0.26757369970025996,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-5 сбивка 1:23 SOUNDS OF CUBA - Dios Sabe-20a5f885e8e9eadafb919e831114c741.mp3"
     },
     {
@@ -514,6 +568,8 @@
       "phase_offset": 0,
       "origin_sec": 0.23877550861782854,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Willy Calderon - Ifa-f0ea7e6a5e0e84235b96ca25c49fd30e.mp3"
     },
     {
@@ -533,6 +589,8 @@
       "phase_offset": 3,
       "origin_sec": 0.29852915861955553,
       "engine": "fallback",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- плавает ритм в середине Latino Girls - Sex and the city salsa remix-a008a7e40500d96be72027d6883d0b01.mp3"
     },
     {
@@ -552,6 +610,8 @@
       "phase_offset": 3,
       "origin_sec": 0.33067448593070475,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-2 сбивка на 3:54 Mario y Su Timbeko - Dale Pa' Fuera-fac1ed367afff7037638c7bfcf693ccd.mp3"
     },
     {
@@ -571,6 +631,8 @@
       "phase_offset": 0,
       "origin_sec": 0.06965986394557823,
       "engine": "fallback",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Bad Bunny - BAILE INoLVIDABLE (No Intro)-6edad63ac9d903fd53a4a353ee0df271.mp3"
     },
     {
@@ -590,6 +652,8 @@
       "phase_offset": 7,
       "origin_sec": 0.29206349637518153,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-1 Los DJs Timberos, Mayito Rivera - Cosas Prohibidas-8c7d8bea14e51e3dfc0ea39610601c01.mp3"
     },
     {
@@ -609,6 +673,8 @@
       "phase_offset": 1,
       "origin_sec": 0.03650793704689769,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Fabio Gianni, LunaMea Quartet - Madre Tierra-09c338fe034129414b08544097e058c0.mp3"
     },
     {
@@ -628,6 +694,8 @@
       "phase_offset": 6,
       "origin_sec": 0.07799686958447334,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-5 SOUNDS OF CUBA - Sientalo pero no lo pares-318ae84840cd0ce6f6dadc242ba1e35e.mp3"
     },
     {
@@ -647,6 +715,8 @@
       "phase_offset": 4,
       "origin_sec": 0.27561227723032583,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-1 Kamankola - No Hay Cuba Libre ft Willy Chirino-4a3087ee2ecb5ae5a1f7f614cad04cc3.mp3"
     },
     {
@@ -666,6 +736,8 @@
       "phase_offset": 4,
       "origin_sec": 0.1853620193469288,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Линди (в конце плывет) Carsie Blanton - Baby Can Dance-34f1bb3c7d5d0bdf18fd3c414392e08b.mp3"
     },
     {
@@ -685,6 +757,8 @@
       "phase_offset": 7,
       "origin_sec": 0.2802913895749221,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Alfredito Linares - Ain't No Sunshine-f515a9d4705aaa5b6e923397632ff97c.mp3"
     },
     {
@@ -704,6 +778,8 @@
       "phase_offset": 3,
       "origin_sec": 0.1676190476190476,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Una Mas Trio - Latin Brother-0286f986cad8a3a8ae367a5fff4da7d7.mp3"
     },
     {
@@ -723,6 +799,8 @@
       "phase_offset": 5,
       "origin_sec": 0.020383354870799463,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-2 Bumbata, FredyClan, Yoyo Flow -  Locura Sin Freno-bb28d002bf198f0822ad697afa6c2dce.mp3"
     },
     {
@@ -742,6 +820,8 @@
       "phase_offset": 3,
       "origin_sec": 0.18249532053760475,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "2-5 Mandi Miranda Y Su SonoraHabana - El loco soy yo-150135e4a63112a234e6c4c7813f6cb8.mp3"
     },
     {
@@ -761,6 +841,8 @@
       "phase_offset": 0,
       "origin_sec": 0.24888888888888888,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- La Maxima 79 - Te Olvidé-80a21a80f37f4fca3c8a5d0e958564a3.mp3"
     },
     {
@@ -780,6 +862,8 @@
       "phase_offset": 1,
       "origin_sec": 0.161088435017431,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-1 Combinación De La Habana - Baile Inolvidable-d0d0bcc72ab0574af2c1ec1b538826fb.mp3"
     },
     {
@@ -799,6 +883,8 @@
       "phase_offset": 4,
       "origin_sec": 0.03523809516006303,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-3 Coco La Figura y La Maquina Timbera - Enamorado de ti-7141bc5eb27a98cc138642fb0eacda19.mp3"
     },
     {
@@ -818,6 +904,8 @@
       "phase_offset": 0,
       "origin_sec": 0.18290250067644673,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-4 Los Van Van - Modo Van Van-2b4d7598f2c2a77c682f05b55d7151ae.mp3"
     },
     {
@@ -837,6 +925,8 @@
       "phase_offset": 3,
       "origin_sec": 0.13779680961523744,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "2-2 Formell y Los Van Van ft Gilberto Santa Rosa Quien - No Ha Dicho-594912c8e2b56feb95687b6c148db041.mp3"
     },
     {
@@ -856,6 +946,8 @@
       "phase_offset": 2,
       "origin_sec": 0.0,
       "engine": "filename",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "0-1 Alexander Abreu Y Havana D'Primera - Pastilla De Menta-cc38cdf177eb6075cf05057ba9df611b.mp3"
     },
     {
@@ -875,6 +967,8 @@
       "phase_offset": 0,
       "origin_sec": 0.2910382866145486,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Desconocido - Sin nombre-c2d61e17d08184b27772632b48446899.mp3"
     },
     {
@@ -894,6 +988,8 @@
       "phase_offset": 0,
       "origin_sec": 0.034141933849050544,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-3 Bamboleo - Chocolate Pa´Mi Leche-b1771cb13b8eca4b8a204853856f1c83.mp3"
     },
     {
@@ -913,6 +1009,8 @@
       "phase_offset": 1,
       "origin_sec": 0.043912166138173704,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- La maxima 79 - La gripe-1cef101c9fb5b42fe1bde47949c704a8.mp3"
     },
     {
@@ -932,6 +1030,8 @@
       "phase_offset": 3,
       "origin_sec": 0.053612444236501605,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Colombian Style - Mama Tetema-70d15e15676b343dcf18ee5b11bc1594.mp3"
     },
     {
@@ -951,6 +1051,8 @@
       "phase_offset": 3,
       "origin_sec": 0.004882676879917023,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-2 Combinacion De La Habana · Perdóname-a9ba8e3d547b815fe0e7298b6e1b73ca.mp3"
     },
     {
@@ -970,6 +1072,8 @@
       "phase_offset": 5,
       "origin_sec": 0.12917470853018004,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-3 SOUNDS OF CUBA - Dile a tu novio-c00a799c6cf0de874a04b78b9a04f3bc.mp3"
     },
     {
@@ -989,6 +1093,8 @@
       "phase_offset": 0,
       "origin_sec": 0.1096546901867447,
       "engine": "fallback",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "2-1 возможно плавает ритм с середины Andy Rubal - Baila y Confía-01d1825cd9814c6f5f2c45c9f094455b.mp3"
     },
     {
@@ -1008,6 +1114,8 @@
       "phase_offset": 0,
       "origin_sec": 0.06095133904914934,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "1-5 Elito Reve y su Charangon - El cosquilleo-137809a00a5c917f7cd8a5c057020fb8.mp3"
     },
     {
@@ -1027,6 +1135,8 @@
       "phase_offset": 2,
       "origin_sec": 0.013781865048533744,
       "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "3-4 Victor Azael - Llegó La Hora-98dd3b7d1a638ca16446a1d643817323.mp3"
     },
     {
@@ -1046,6 +1156,8 @@
       "phase_offset": 0,
       "origin_sec": 0.10126984388614636,
       "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- с середины 2 сливки - Браво - Московский бит-47a51303a6c05d16094fca70a519af4f.mp3"
     },
     {
@@ -1065,6 +1177,8 @@
       "phase_offset": 1,
       "origin_sec": 0.26180744086474195,
       "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
       "yandex_name": "- Nic N'Taya, Marlon Caro - Saka Laka Tiki Taka-811878aa58f7e32b16af5dc565e6262d.mp3"
     }
   ]
