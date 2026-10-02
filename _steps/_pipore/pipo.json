@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-02T07:54:00Z",
+  "updated_at": "2026-10-02T10:09:11Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -591,6 +591,25 @@
       "origin_sec": 0.03650793704689769,
       "engine": "percival",
       "yandex_name": "- Fabio Gianni, LunaMea Quartet - Madre Tierra-09c338fe034129414b08544097e058c0.mp3"
+    },
+    {
+      "id": 100,
+      "md5": "318ae84840cd0ce6f6dadc242ba1e35e",
+      "filename": "3-5 SOUNDS OF CUBA - Sientalo pero no lo pares.mp3",
+      "title": "Sientalo pero no lo pares",
+      "artist": "SOUNDS OF CUBA",
+      "duration_sec": 298.0,
+      "file_size": 11949497,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 180.0,
+      "bpm_raw": 180.3,
+      "phase_offset": 6,
+      "origin_sec": 0.07799686958447334,
+      "engine": "comb",
+      "yandex_name": "3-5 SOUNDS OF CUBA - Sientalo pero no lo pares-318ae84840cd0ce6f6dadc242ba1e35e.mp3"
     },
     {
       "id": 92,
