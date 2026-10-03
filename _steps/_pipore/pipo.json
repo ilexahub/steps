@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-02T20:18:15Z",
+  "updated_at": "2026-10-03T06:38:19Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -547,8 +547,10 @@
       "phase_offset": 2,
       "origin_sec": 0.26757369970025996,
       "engine": "percival",
-      "irregular": 0,
-      "breaks": [],
+      "irregular": 1,
+      "breaks": [
+        82.147
+      ],
       "yandex_name": "3-5 сбивка 1:23 SOUNDS OF CUBA - Dios Sabe-20a5f885e8e9eadafb919e831114c741.mp3"
     },
     {
