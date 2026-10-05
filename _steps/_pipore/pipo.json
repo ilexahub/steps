@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T07:40:02Z",
+  "updated_at": "2026-10-05T07:45:21Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -466,6 +466,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "4-1 Roly Maden - Tremendo Vacilon-5f347521f427fae92700233aea4446d4.mp3"
+    },
+    {
+      "id": 101,
+      "md5": "9c8dee0f99d0d59b7d00a739887932ad",
+      "filename": "4-1 Manolito y Su Trabuco - YA TU NO ERES (Version Duo).mp3",
+      "title": "YA TU NO ERES (Version Duo)",
+      "artist": "Manolito y Su Trabuco",
+      "duration_sec": 339.0,
+      "file_size": 13587240,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 170.0,
+      "bpm_raw": 170.0,
+      "phase_offset": 3,
+      "origin_sec": 0.07167335511485505,
+      "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "4-1 Manolito y Su Trabuco - YA TU NO ERES (Version Duo)-9c8dee0f99d0d59b7d00a739887932ad.mp3"
     },
     {
       "id": 10,
