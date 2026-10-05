@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T07:36:48Z",
+  "updated_at": "2026-10-05T07:40:02Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -459,10 +459,10 @@
       "has_mirror": true,
       "has_yandex": true,
       "bpm": 170.0,
-      "bpm_raw": 170.0,
-      "phase_offset": 7,
-      "origin_sec": 0.3418839294135384,
-      "engine": "comb",
+      "bpm_raw": 170.1,
+      "phase_offset": 0,
+      "origin_sec": 0.0826773432224481,
+      "engine": "fallback",
       "irregular": 0,
       "breaks": [],
       "yandex_name": "4-1 Roly Maden - Tremendo Vacilon-5f347521f427fae92700233aea4446d4.mp3"
