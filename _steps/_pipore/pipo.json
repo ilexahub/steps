@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T07:12:12Z",
+  "updated_at": "2026-10-05T07:36:48Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -445,6 +445,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "2-2 Lachy Y La Suprema Ley - Chica Material-7b68a7f758dbc8f9fde403a3086382a0.mp3"
+    },
+    {
+      "id": 102,
+      "md5": "5f347521f427fae92700233aea4446d4",
+      "filename": "4-1 Roly Maden - Tremendo Vacilon.mp3",
+      "title": "Tremendo Vacilon",
+      "artist": "Roly Maden",
+      "duration_sec": 284.0,
+      "file_size": 11371538,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 170.0,
+      "bpm_raw": 170.0,
+      "phase_offset": 7,
+      "origin_sec": 0.3418839294135384,
+      "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "4-1 Roly Maden - Tremendo Vacilon-5f347521f427fae92700233aea4446d4.mp3"
     },
     {
       "id": 10,
