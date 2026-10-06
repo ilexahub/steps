@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T07:45:21Z",
+  "updated_at": "2026-10-06T07:21:31Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -65,6 +65,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Борис Эча - Тайна-40c3af3716b6eeffb43522f049e71d5d.mp3"
+    },
+    {
+      "id": 86,
+      "md5": "ee836343a17a8133ce12e102fc55919b",
+      "filename": "- Lucas Arnau - Agüita de Mar.mp3",
+      "title": "Agüita de Mar",
+      "artist": "Lucas Arnau",
+      "duration_sec": null,
+      "file_size": 8704465,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 154.0,
+      "bpm_raw": 154.3,
+      "phase_offset": 2,
+      "origin_sec": 0.054693875128708054,
+      "engine": "percival",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- Lucas Arnau - Agüita de Mar-ee836343a17a8133ce12e102fc55919b.mp3"
     },
     {
       "id": 32,
