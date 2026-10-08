@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T07:10:00Z",
+  "updated_at": "2026-10-08T07:26:58Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -804,6 +804,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Линди (в конце плывет) Carsie Blanton - Baby Can Dance-34f1bb3c7d5d0bdf18fd3c414392e08b.mp3"
+    },
+    {
+      "id": 104,
+      "md5": "3ee45877076c82be710e3622bfd7fc75",
+      "filename": "4-4 Maykel Blanco y su Salsa Mayor - Te Escapaste.mp3",
+      "title": "Te Escapaste",
+      "artist": "Maykel Blanco y su Salsa Mayor",
+      "duration_sec": 341.0,
+      "file_size": 13657905,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 182.0,
+      "bpm_raw": 182.0,
+      "phase_offset": 0,
+      "origin_sec": 0.2524162474119255,
+      "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "4-4 Maykel Blanco y su Salsa Mayor - Te Escapaste-3ee45877076c82be710e3622bfd7fc75.mp3"
     },
     {
       "id": 57,
