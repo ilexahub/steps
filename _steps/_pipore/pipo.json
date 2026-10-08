@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T07:26:58Z",
+  "updated_at": "2026-10-08T07:33:41Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -741,6 +741,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Fabio Gianni, LunaMea Quartet - Madre Tierra-09c338fe034129414b08544097e058c0.mp3"
+    },
+    {
+      "id": 103,
+      "md5": "9940ea3d362a58dd8a50eb352d2d0c11",
+      "filename": "4-4 Big Naimi y Su Timbarap - Se Te Fue la Musa.mp3",
+      "title": "Se Te Fue la Musa",
+      "artist": "Big Naimi y Su Timbarap",
+      "duration_sec": 272.0,
+      "file_size": 10888973,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 180.0,
+      "bpm_raw": 180.1,
+      "phase_offset": 2,
+      "origin_sec": 0.11453280888189547,
+      "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "4-4 Big Naimi y Su Timbarap - Se Te Fue la Musa-9940ea3d362a58dd8a50eb352d2d0c11.mp3"
     },
     {
       "id": 100,
