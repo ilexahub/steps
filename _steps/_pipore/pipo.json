@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-12T12:34:17Z",
+  "updated_at": "2026-10-12T12:58:32Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -804,6 +804,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "3-5 SOUNDS OF CUBA - Sientalo pero no lo pares-318ae84840cd0ce6f6dadc242ba1e35e.mp3"
+    },
+    {
+      "id": 106,
+      "md5": "526298f60b4700d4b65ba2a663e7f4ae",
+      "filename": "5-1 El Niño y la Verdad - Sufriendo Tu Amor.mp3",
+      "title": "Sufriendo Tu Amor",
+      "artist": "El Niño y la Verdad",
+      "duration_sec": 344.0,
+      "file_size": 13778068,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 180.0,
+      "bpm_raw": 180.0,
+      "phase_offset": 1,
+      "origin_sec": 0.245,
+      "engine": "fallback",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "5-1 El Niño y la Verdad - Sufriendo Tu Amor-526298f60b4700d4b65ba2a663e7f4ae.mp3"
     },
     {
       "id": 92,
