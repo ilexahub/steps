@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-12T12:58:32Z",
+  "updated_at": "2026-10-13T11:01:05Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -44,6 +44,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Celia Cruz - Oye Como Va (Latin Trance Mix)-96af9703ee42c0ec28e88e0d658a0c69.mp3"
+    },
+    {
+      "id": 107,
+      "md5": "6c9a9530636297f7331a0d1e79a4ad58",
+      "filename": "5-2 Manolito_Simonet_Y_Su_Trabuco_Donde_Estaras_альбом_октябрь_2022.mp3",
+      "title": "5-2 Manolito_Simonet_Y_Su_Trabuco_Donde_Estaras_альбом_октябрь_2022",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 9531603,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 150.0,
+      "bpm_raw": 150.2,
+      "phase_offset": 1,
+      "origin_sec": 0.3869753095615043,
+      "engine": "fallback",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "5-2 Manolito_Simonet_Y_Su_Trabuco_Donde_Estaras_альбом_октябрь_2022-6c9a9530636297f7331a0d1e79a4ad58.mp3"
     },
     {
       "id": 35,
