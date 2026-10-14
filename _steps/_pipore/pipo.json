@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13T21:35:32Z",
+  "updated_at": "2026-10-14T17:58:08Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1196,10 +1196,10 @@
       "has_mirror": true,
       "has_yandex": true,
       "bpm": 192.0,
-      "bpm_raw": 192.0,
-      "phase_offset": 1,
-      "origin_sec": 0.08791124756061659,
-      "engine": "fallback",
+      "bpm_raw": 192.9,
+      "phase_offset": 0,
+      "origin_sec": 0.23809628317399864,
+      "engine": "essentia",
       "irregular": 0,
       "breaks": [],
       "yandex_name": "5-2 Manana Club - Homenaje a mi timba-4f56c9ccf5415d276cd81719f207e8d1.mp3"
