@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T15:43:43Z",
+  "updated_at": "2026-10-16T06:15:28Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1119,6 +1119,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "3-3 Coco La Figura y La Maquina Timbera - Enamorado de ti-7141bc5eb27a98cc138642fb0eacda19.mp3"
+    },
+    {
+      "id": 112,
+      "md5": "a6a65a9614291882fb7e3e077d80b1d3",
+      "filename": "- Cesar Vega - Amor a Medio Tiempo.mp3",
+      "title": "- Cesar Vega - Amor a Medio Tiempo",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 12593623,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 188.0,
+      "bpm_raw": 188.0,
+      "phase_offset": 0,
+      "origin_sec": 0.14960112454074476,
+      "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- Cesar Vega - Amor a Medio Tiempo-a6a65a9614291882fb7e3e077d80b1d3.mp3"
     },
     {
       "id": 16,
