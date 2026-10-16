@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T06:15:28Z",
+  "updated_at": "2026-10-16T06:23:25Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -361,6 +361,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Miles Pena - De Poquito a Poquito-0dd9a231a84e910b431e8bed5da82029.mp3"
+    },
+    {
+      "id": 113,
+      "md5": "b9ae939e56dd165341a8afa1a4f4c775",
+      "filename": "- Доминикана Yoskar Sarante, Lauryn Novas - Amor A Medio Tiempo.mp3",
+      "title": "- Доминикана Yoskar Sarante, Lauryn Novas - Amor A Medio Tiempo",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 8845486,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 166.0,
+      "bpm_raw": 165.9,
+      "phase_offset": 2,
+      "origin_sec": 0.27683751375625365,
+      "engine": "essentia",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- Доминикана Yoskar Sarante, Lauryn Novas - Amor A Medio Tiempo-b9ae939e56dd165341a8afa1a4f4c775.mp3"
     },
     {
       "id": 70,
