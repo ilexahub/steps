@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T11:01:42Z",
+  "updated_at": "2026-10-16T11:07:00Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -617,7 +617,7 @@
     {
       "id": 114,
       "md5": "f36f92ff42b2bd187182266238738a13",
-      "filename": "5-5 Pupy y los Que Son Son — Pasándola bien.mp3",
+      "filename": "5-5 сбивка 1:13 Pupy y los Que Son Son — Pasándola bien.mp3",
       "title": "Pasándola bien",
       "artist": "Pupy y los Que Son Son",
       "duration_sec": 351.0,
@@ -631,9 +631,11 @@
       "phase_offset": 0,
       "origin_sec": 0.010837808074484529,
       "engine": "essentia",
-      "irregular": 0,
-      "breaks": [],
-      "yandex_name": "5-5 Pupy y los Que Son Son — Pasándola bien-f36f92ff42b2bd187182266238738a13.mp3"
+      "irregular": 1,
+      "breaks": [
+        73.248
+      ],
+      "yandex_name": "5-5 сбивка 1:13 Pupy y los Que Son Son — Pasándola bien-f36f92ff42b2bd187182266238738a13.mp3"
     },
     {
       "id": 95,
