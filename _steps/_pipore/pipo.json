@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T14:40:22Z",
+  "updated_at": "2026-10-16T16:15:35Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1415,6 +1415,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "1-2 Combinacion De La Habana · Perdóname-a9ba8e3d547b815fe0e7298b6e1b73ca.mp3"
+    },
+    {
+      "id": 117,
+      "md5": "de106dd59bfd6a86a25edf504d261bcb",
+      "filename": "- El Timba Manuel La Palma feat Max Tu Nice - Mambo Campana.mp3",
+      "title": "- El Timba Manuel La Palma feat Max Tu Nice - Mambo Campana",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 9804718,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 194.0,
+      "bpm_raw": 194.2,
+      "phase_offset": 3,
+      "origin_sec": 0.09652670318455976,
+      "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- El Timba Manuel La Palma feat Max Tu Nice - Mambo Campana-de106dd59bfd6a86a25edf504d261bcb.mp3"
     },
     {
       "id": 15,
