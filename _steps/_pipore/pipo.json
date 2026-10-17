@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T16:15:35Z",
+  "updated_at": "2026-10-17T14:53:27Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       "engine": "comb",
       "irregular": 1,
       "breaks": [
-        168.081
+        168.08
       ],
       "yandex_name": "2-5 сбивка на 2:48 - Maikel Dinza - Venganza-45ad9594d365d7784d4f41e091fcec83.mp3"
     },
@@ -654,7 +654,7 @@
       "engine": "essentia",
       "irregular": 1,
       "breaks": [
-        73.248
+        73.25
       ],
       "yandex_name": "5-5 сбивка 1:13 Pupy y los Que Son Son — Pasándola bien-f36f92ff42b2bd187182266238738a13.mp3"
     },
@@ -761,7 +761,7 @@
       "engine": "percival",
       "irregular": 1,
       "breaks": [
-        82.147
+        82.15
       ],
       "yandex_name": "3-5 сбивка 1:23 SOUNDS OF CUBA - Dios Sabe-20a5f885e8e9eadafb919e831114c741.mp3"
     },
@@ -1121,6 +1121,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "1-2 Bumbata, FredyClan, Yoyo Flow -  Locura Sin Freno-bb28d002bf198f0822ad697afa6c2dce.mp3"
+    },
+    {
+      "id": 66,
+      "md5": "9b2c24c14d44db88fdfbdd7e1f8da8b1",
+      "filename": "Marambo - La negra Tomasa (медленная сальса).mp3",
+      "title": "Marambo - La negra Tomasa (медленная сальса)",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 8460858,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 184.0,
+      "bpm_raw": 92.0,
+      "phase_offset": 3,
+      "origin_sec": 0.16,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "Marambo - La negra Tomasa (медленная сальса)-9b2c24c14d44db88fdfbdd7e1f8da8b1.mp3"
     },
     {
       "id": 91,
