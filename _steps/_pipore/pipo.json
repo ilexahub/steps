@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T14:55:19Z",
+  "updated_at": "2026-10-17T15:02:00Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -107,6 +107,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Борис Эча - Тайна-40c3af3716b6eeffb43522f049e71d5d.mp3"
+    },
+    {
+      "id": 43,
+      "md5": "78eba3bc5b4c4276cbe3d2f0fd051e2d",
+      "filename": "- Haila - La Lluvia Se Llevó Tu Amor.mp3",
+      "title": "La Lluvia Se Llevó Tu Amor",
+      "artist": "Haila",
+      "duration_sec": null,
+      "file_size": 9618544,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 153.0,
+      "bpm_raw": 153.0,
+      "phase_offset": 4,
+      "origin_sec": 0.13,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- Haila - La Lluvia Se Llevó Tu Amor-78eba3bc5b4c4276cbe3d2f0fd051e2d.mp3"
     },
     {
       "id": 86,
