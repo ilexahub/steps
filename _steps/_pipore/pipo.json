@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T15:50:48Z",
+  "updated_at": "2026-10-19T16:08:03Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1037,6 +1037,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "3-1 Kamankola - No Hay Cuba Libre ft Willy Chirino-4a3087ee2ecb5ae5a1f7f614cad04cc3.mp3"
+    },
+    {
+      "id": 56,
+      "md5": "a6a32bc7b3436fe94ece0ff23f899417",
+      "filename": "Сальса Попса - La bebe.mp3",
+      "title": "Сальса Попса - La bebe",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 8644725,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 180.0,
+      "bpm_raw": 90.0,
+      "phase_offset": 7,
+      "origin_sec": 0.0,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "Сальса Попса - La bebe-a6a32bc7b3436fe94ece0ff23f899417.mp3"
     },
     {
       "id": 107,
