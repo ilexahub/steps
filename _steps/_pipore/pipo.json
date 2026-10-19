@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T10:56:45Z",
+  "updated_at": "2026-10-19T15:50:48Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -291,7 +291,7 @@
       "bpm": 160.0,
       "bpm_raw": 160.0,
       "phase_offset": 1,
-      "origin_sec": 0.03,
+      "origin_sec": 0.02,
       "engine": "tempocnn-phone",
       "irregular": 0,
       "breaks": [],
