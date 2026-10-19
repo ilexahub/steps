@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T06:50:41Z",
+  "updated_at": "2026-10-19T10:56:45Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -275,6 +275,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "3-4 сбивки Pedrito Calvo - La Vida-634343b3a7319c6f2f8f24660f355243.mp3"
+    },
+    {
+      "id": 118,
+      "md5": "9d25598d85c5bab8be51ec10024347f0",
+      "filename": "6-1 Manolito Simonet Y Su Trabuco - Mira Como Se Mueve.mp3",
+      "title": "Mira Como Se Mueve",
+      "artist": "Manolito Simonet Y Su Trabuco",
+      "duration_sec": 281.0,
+      "file_size": 11273404,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 160.0,
+      "bpm_raw": 160.0,
+      "phase_offset": 1,
+      "origin_sec": 0.03,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "6-1 Manolito Simonet Y Su Trabuco - Mira Como Se Mueve-9d25598d85c5bab8be51ec10024347f0.mp3"
     },
     {
       "id": 5,
