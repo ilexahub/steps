@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T11:25:31Z",
+  "updated_at": "2026-10-20T19:38:47Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1625,6 +1625,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "1-5 Elito Reve y su Charangon - El cosquilleo-137809a00a5c917f7cd8a5c057020fb8.mp3"
+    },
+    {
+      "id": 121,
+      "md5": "6b7fabeaf9dfe9381ff8973d232ad568",
+      "filename": "- Cabas Andres - Declaracion Del Bizco.mp3",
+      "title": "- Cabas Andres - Declaracion Del Bizco",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 5201127,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 202.0,
+      "bpm_raw": 202.0,
+      "phase_offset": 0,
+      "origin_sec": 0.22,
+      "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- Cabas Andres - Declaracion Del Bizco-6b7fabeaf9dfe9381ff8973d232ad568.mp3"
     },
     {
       "id": 98,
