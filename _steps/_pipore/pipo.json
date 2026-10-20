@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T11:19:44Z",
+  "updated_at": "2026-10-20T11:25:31Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -974,6 +974,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Bad Bunny - BAILE INoLVIDABLE (No Intro)-6edad63ac9d903fd53a4a353ee0df271.mp3"
+    },
+    {
+      "id": 120,
+      "md5": "2320ab0aaff70b10888da8280e56c377",
+      "filename": "- Motiff & Tito Nieves - Bochinchero.mp3",
+      "title": "Bochinchero",
+      "artist": "Motiff & Tito Nieves",
+      "duration_sec": null,
+      "file_size": 7984787,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 180.0,
+      "bpm_raw": 90.0,
+      "phase_offset": 4,
+      "origin_sec": 0.17,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- Motiff & Tito Nieves - Bochinchero-2320ab0aaff70b10888da8280e56c377.mp3"
     },
     {
       "id": 89,
