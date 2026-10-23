@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T15:48:08Z",
+  "updated_at": "2026-10-23T15:54:12Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1073,7 +1073,7 @@
       "has_yandex": true,
       "bpm": 180.0,
       "bpm_raw": 179.8,
-      "phase_offset": 0,
+      "phase_offset": 5,
       "origin_sec": 0.07,
       "engine": "percival",
       "irregular": 0,
