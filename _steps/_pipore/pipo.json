@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T12:50:45Z",
+  "updated_at": "2026-10-26T12:58:18Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -741,6 +741,27 @@
         73.25
       ],
       "yandex_name": "5-5 сбивка 1:13 Pupy y los Que Son Son — Pasándola bien-f36f92ff42b2bd187182266238738a13.mp3"
+    },
+    {
+      "id": 124,
+      "md5": "b0530e0e18700600227afd14d06d46de",
+      "filename": "7-1 Yasser Ramos Y Tumbao Mayombeb ft Kasanova Ella Tiene La Capacidad.mp3",
+      "title": "La Capacidad",
+      "artist": "Yasser Ramos Y Tumbao Mayombeb ft Kasanova Ella Tiene",
+      "duration_sec": 287.0,
+      "file_size": 11484517,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 174.0,
+      "bpm_raw": 87.0,
+      "phase_offset": 3,
+      "origin_sec": 0.32,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "7-1 Yasser Ramos Y Tumbao Mayombeb ft Kasanova Ella Tiene La Capacidad-b0530e0e18700600227afd14d06d46de.mp3"
     },
     {
       "id": 95,
