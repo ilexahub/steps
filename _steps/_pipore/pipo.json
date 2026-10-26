@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T07:06:42Z",
+  "updated_at": "2026-10-26T12:50:45Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1478,6 +1478,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Desconocido - Sin nombre-c2d61e17d08184b27772632b48446899.mp3"
+    },
+    {
+      "id": 125,
+      "md5": "7108aeac7ccbfdc4d216dbe50ddce6c6",
+      "filename": "7-1 Raulín Rosendo - Voy pa’ delante (сумка бобра).mp3",
+      "title": "Voy pa’ delante",
+      "artist": "Raulín Rosendo",
+      "duration_sec": 230.0,
+      "file_size": 9225448,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 190.0,
+      "bpm_raw": 94.8,
+      "phase_offset": 6,
+      "origin_sec": 0.02,
+      "engine": "percival-cnn",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "7-1 Raulín Rosendo - Voy pa’ delante (сумка бобра)-7108aeac7ccbfdc4d216dbe50ddce6c6.mp3"
     },
     {
       "id": 14,
