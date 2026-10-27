@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T15:39:24Z",
+  "updated_at": "2026-10-27T15:41:50Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -566,7 +566,7 @@
       "bpm": 170.0,
       "bpm_raw": 169.8,
       "phase_offset": 1,
-      "origin_sec": 0.22090945343684001,
+      "origin_sec": 0.22,
       "engine": "comb",
       "irregular": 0,
       "breaks": [],
