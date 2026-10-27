@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T15:45:16Z",
+  "updated_at": "2026-10-27T20:04:32Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1335,9 +1335,9 @@
     {
       "id": 126,
       "md5": "91d148a06212d5f6179e057e73ef2e6a",
-      "filename": "Formell y Los Van Van - Me Gustas.mp3",
-      "title": "Formell y Los Van Van - Me Gustas",
-      "artist": "",
+      "filename": "7-2 Formell y Los Van Van - Me Gustas.mp3",
+      "title": "Me Gustas",
+      "artist": "Formell y Los Van Van",
       "duration_sec": 362.0,
       "file_size": 14515766,
       "enabled": true,
@@ -1351,7 +1351,7 @@
       "engine": "comb",
       "irregular": 0,
       "breaks": [],
-      "yandex_name": "Formell y Los Van Van - Me Gustas-91d148a06212d5f6179e057e73ef2e6a.mp3"
+      "yandex_name": "7-2 Formell y Los Van Van - Me Gustas-91d148a06212d5f6179e057e73ef2e6a.mp3"
     },
     {
       "id": 80,
