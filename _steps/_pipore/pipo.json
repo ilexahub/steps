@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T18:08:33Z",
+  "updated_at": "2026-10-28T18:19:23Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1127,7 +1127,7 @@
       "md5": "1be0c9dc5f41ec56d797ff4d2b8bf5fa",
       "filename": "6-5 Los Djs Timberos ft Ivan el hijo de Teresa - Mujer Cubana СальсРэп))).mp3",
       "title": "Mujer Cubana",
-      "artist": "Los Djs Timberos feat. ivan el hijo de teresa",
+      "artist": "Los Djs Timberos ft Ivan el hijo de Teresa",
       "duration_sec": null,
       "file_size": 10864893,
       "enabled": true,
@@ -1135,10 +1135,10 @@
       "has_mirror": true,
       "has_yandex": true,
       "bpm": 180.0,
-      "bpm_raw": 179.8,
-      "phase_offset": 5,
-      "origin_sec": 0.07,
-      "engine": "percival",
+      "bpm_raw": 180.3,
+      "phase_offset": 4,
+      "origin_sec": 0.17,
+      "engine": "comb",
       "irregular": 0,
       "breaks": [],
       "yandex_name": "6-5 Los Djs Timberos ft Ivan el hijo de Teresa - Mujer Cubana СальсРэп)))-1be0c9dc5f41ec56d797ff4d2b8bf5fa.mp3"
