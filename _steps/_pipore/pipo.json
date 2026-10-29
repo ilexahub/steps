@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T07:09:13Z",
+  "updated_at": "2026-10-29T07:17:21Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1121,6 +1121,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Fabio Gianni, LunaMea Quartet - Madre Tierra-09c338fe034129414b08544097e058c0.mp3"
+    },
+    {
+      "id": 128,
+      "md5": "c412bd5b0db7db750fffa293da6a2414",
+      "filename": "7-4 Vitaly Y Su Timba Habanera  - Mi Musica Cubana.mp3",
+      "title": "Mi Musica Cubana",
+      "artist": "Vitaly Y Su Timba Habanera",
+      "duration_sec": 291.0,
+      "file_size": 11660016,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 180.0,
+      "bpm_raw": 90.0,
+      "phase_offset": 0,
+      "origin_sec": 0.22,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "7-4 Vitaly Y Su Timba Habanera  - Mi Musica Cubana-c412bd5b0db7db750fffa293da6a2414.mp3"
     },
     {
       "id": 123,
