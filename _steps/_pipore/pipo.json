@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T07:17:21Z",
+  "updated_at": "2026-10-29T07:25:52Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1352,6 +1352,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "1-2 Bumbata, FredyClan, Yoyo Flow -  Locura Sin Freno-bb28d002bf198f0822ad697afa6c2dce.mp3"
+    },
+    {
+      "id": 127,
+      "md5": "3708e29b765700bb1ccb9b05bc9b2bee",
+      "filename": "7-4 Yuri Buenaventura, La Mambanegra - Cali Es Sabrosura.mp3",
+      "title": "Cali Es Sabrosura",
+      "artist": "Yuri Buenaventura, La Mambanegra",
+      "duration_sec": 194.0,
+      "file_size": 7773040,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 185.0,
+      "bpm_raw": 92.0,
+      "phase_offset": 2,
+      "origin_sec": 0.27,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "7-4 Yuri Buenaventura, La Mambanegra - Cali Es Sabrosura-3708e29b765700bb1ccb9b05bc9b2bee.mp3"
     },
     {
       "id": 91,
