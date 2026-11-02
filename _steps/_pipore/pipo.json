@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T19:31:58Z",
+  "updated_at": "2026-11-02T19:39:28Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -739,6 +739,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "6-5 Papucho y Manana Club Como siento el amor ft Ángel Yos-944752fa707538e6da5c31e3d712f4ff.mp3"
+    },
+    {
+      "id": 132,
+      "md5": "87bc875a103124a319cc84c9e61318ae",
+      "filename": "Bumbata feat. Yordis Larrazabal - La Talla.mp3",
+      "title": "La Talla",
+      "artist": "8 - Bumbata feat. Yordis Larrazabal",
+      "duration_sec": 332.0,
+      "file_size": 13300550,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 172.0,
+      "bpm_raw": 173.0,
+      "phase_offset": 5,
+      "origin_sec": 0.0,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "Bumbata feat. Yordis Larrazabal - La Talla-87bc875a103124a319cc84c9e61318ae.mp3"
     },
     {
       "id": 116,
