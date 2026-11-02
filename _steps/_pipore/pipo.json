@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T15:45:01Z",
+  "updated_at": "2026-11-02T19:31:58Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1520,6 +1520,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "7-5 Los DJs Timberos, Paky Madarena & Manana Club Cuba me llamo-f627e7c97feded1a15a94ce07ee5bf97.mp3"
+    },
+    {
+      "id": 133,
+      "md5": "a3aeef4d252f61590d8b9d5b69754f0a",
+      "filename": "8 - Issac Delgado feat. Los Van Van - Cubanos.mp3",
+      "title": "Cubanos",
+      "artist": "Issac Delgado feat. Los Van Van",
+      "duration_sec": 286.0,
+      "file_size": 11471961,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 186.0,
+      "bpm_raw": 93.0,
+      "phase_offset": 0,
+      "origin_sec": 0.02,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "8 - Issac Delgado feat. Los Van Van - Cubanos-a3aeef4d252f61590d8b9d5b69754f0a.mp3"
     },
     {
       "id": 96,
