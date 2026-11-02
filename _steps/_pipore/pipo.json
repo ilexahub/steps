@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T15:42:40Z",
+  "updated_at": "2026-11-02T15:45:01Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1268,6 +1268,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Линди (в конце плывет) Carsie Blanton - Baby Can Dance-34f1bb3c7d5d0bdf18fd3c414392e08b.mp3"
+    },
+    {
+      "id": 134,
+      "md5": "eb7bf08a84e7f61807cd0f7f3b880d70",
+      "filename": "- El Equipo Del Norte - La Rumba Ya Se Formó.mp3",
+      "title": "- El Equipo Del Norte - La Rumba Ya Se Formó",
+      "artist": "",
+      "duration_sec": null,
+      "file_size": 9714708,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 184.0,
+      "bpm_raw": 92.0,
+      "phase_offset": 0,
+      "origin_sec": 0.03,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- El Equipo Del Norte - La Rumba Ya Se Formó-eb7bf08a84e7f61807cd0f7f3b880d70.mp3"
     },
     {
       "id": 115,
