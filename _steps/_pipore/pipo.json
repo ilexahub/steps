@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T05:14:11Z",
+  "updated_at": "2026-11-03T05:15:50Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -764,9 +764,9 @@
     {
       "id": 132,
       "md5": "87bc875a103124a319cc84c9e61318ae",
-      "filename": "Bumbata feat. Yordis Larrazabal - La Talla.mp3",
+      "filename": "8-2 - Bumbata feat. Yordis Larrazabal - La Talla.mp3",
       "title": "La Talla",
-      "artist": "8 - Bumbata feat. Yordis Larrazabal",
+      "artist": "Bumbata feat. Yordis Larrazabal",
       "duration_sec": 332.0,
       "file_size": 13300550,
       "enabled": true,
@@ -780,7 +780,7 @@
       "engine": "tempocnn-phone",
       "irregular": 0,
       "breaks": [],
-      "yandex_name": "Bumbata feat. Yordis Larrazabal - La Talla-87bc875a103124a319cc84c9e61318ae.mp3"
+      "yandex_name": "8-2 - Bumbata feat. Yordis Larrazabal - La Talla-87bc875a103124a319cc84c9e61318ae.mp3"
     },
     {
       "id": 116,
