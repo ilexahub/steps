@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T03:15:13Z",
+  "updated_at": "2026-11-09T05:27:42Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1121,6 +1121,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Motiff & Tito Nieves - Bochinchero-2320ab0aaff70b10888da8280e56c377.mp3"
+    },
+    {
+      "id": 135,
+      "md5": "c59d5f88773f22d2bf3e6b5d2ef8be30",
+      "filename": "9-1 Bamboleo - Caramelo Con Picante.mp3",
+      "title": "Caramelo Con Picante",
+      "artist": "Bamboleo",
+      "duration_sec": 337.0,
+      "file_size": 13488631,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 180.0,
+      "bpm_raw": 90.0,
+      "phase_offset": 3,
+      "origin_sec": 0.08,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "9-1 Bamboleo - Caramelo Con Picante-c59d5f88773f22d2bf3e6b5d2ef8be30.mp3"
     },
     {
       "id": 89,
