@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T05:35:42Z",
+  "updated_at": "2026-11-09T05:47:32Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -2024,6 +2024,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- с середины 2 сливки - Браво - Московский бит-47a51303a6c05d16094fca70a519af4f.mp3"
+    },
+    {
+      "id": 84,
+      "md5": "6831af6274e834e3dc81589554416695",
+      "filename": "- Fonseca feat. Víctor Manuelle - Amor Eterno (feat. Víctor Manuelle).mp3",
+      "title": "Amor Eterno (feat. Víctor Manuelle)",
+      "artist": "Fonseca feat. Víctor Manuelle",
+      "duration_sec": null,
+      "file_size": 9045948,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 210.0,
+      "bpm_raw": 210.3,
+      "phase_offset": 5,
+      "origin_sec": 0.0,
+      "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- Fonseca feat. Víctor Manuelle - Amor Eterno (feat. Víctor Manuelle)-6831af6274e834e3dc81589554416695.mp3"
     },
     {
       "id": 73,
