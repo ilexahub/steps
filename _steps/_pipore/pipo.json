@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T07:20:06Z",
+  "updated_at": "2026-11-11T16:55:10Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -953,6 +953,27 @@
         82.15
       ],
       "yandex_name": "3-5 сбивка 1:23 SOUNDS OF CUBA - Dios Sabe-20a5f885e8e9eadafb919e831114c741.mp3"
+    },
+    {
+      "id": 136,
+      "md5": "51843a780b43882906f167296dd5a7f1",
+      "filename": "9-3 EL NORO Y 1RA CLASE - Halarte El Pelo.mp3",
+      "title": "Halarte El Pelo",
+      "artist": "EL NORO Y 1RA CLASE",
+      "duration_sec": 222.0,
+      "file_size": 8906268,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 176.0,
+      "bpm_raw": 88.0,
+      "phase_offset": 1,
+      "origin_sec": 0.19,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "9-3 EL NORO Y 1RA CLASE - Halarte El Pelo-51843a780b43882906f167296dd5a7f1.mp3"
     },
     {
       "id": 20,
