@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T07:22:49Z",
+  "updated_at": "2026-11-19T11:30:09Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -974,6 +974,27 @@
         82.15
       ],
       "yandex_name": "3-5 сбивка 1:23 SOUNDS OF CUBA - Dios Sabe-20a5f885e8e9eadafb919e831114c741.mp3"
+    },
+    {
+      "id": 139,
+      "md5": "8dadd53349b8c6305a22fdf529bcb0c6",
+      "filename": "d10-3 Yordis Larrazabal - QUE BOLA!.mp3",
+      "title": "QUE BOLA!",
+      "artist": "Yordis Larrazabal",
+      "duration_sec": 267.0,
+      "file_size": 10705298,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 175.0,
+      "bpm_raw": 88.0,
+      "phase_offset": 0,
+      "origin_sec": 0.14,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "d10-3 Yordis Larrazabal - QUE BOLA!-8dadd53349b8c6305a22fdf529bcb0c6.mp3"
     },
     {
       "id": 136,
