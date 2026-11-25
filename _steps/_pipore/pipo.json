@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T07:10:56Z",
+  "updated_at": "2026-11-25T12:18:03Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1394,6 +1394,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "- Линди (в конце плывет) Carsie Blanton - Baby Can Dance-34f1bb3c7d5d0bdf18fd3c414392e08b.mp3"
+    },
+    {
+      "id": 142,
+      "md5": "89ee67725d6e09b73a2c6cb191d99d7f",
+      "filename": "La Melanina.mp3",
+      "title": "La Melanina",
+      "artist": "Son 21",
+      "duration_sec": 251.0,
+      "file_size": 10118898,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 183.0,
+      "bpm_raw": 183.2,
+      "phase_offset": 1,
+      "origin_sec": 0.27,
+      "engine": "comb",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "La Melanina-89ee67725d6e09b73a2c6cb191d99d7f.mp3"
     },
     {
       "id": 134,
