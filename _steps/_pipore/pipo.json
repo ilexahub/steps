@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T07:47:19Z",
+  "updated_at": "2026-11-27T08:00:04Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1667,6 +1667,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "d11-1 Remolino - Combinación de La Habana (Official Lyric Video)-c755f7bb715b06dbac7541f6cbf0a2b3.mp3"
+    },
+    {
+      "id": 143,
+      "md5": "c127b5d826acd7efe392fce958351b98",
+      "filename": "d11-5 Los Djs Timberos, Paky Madarena, Manana Club - Cuba me LLamo.mp3",
+      "title": "Cuba me LLamo",
+      "artist": "Los Djs Timberos, Paky Madarena, Manana Club",
+      "duration_sec": 279.0,
+      "file_size": 11254407,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 186.0,
+      "bpm_raw": 93.0,
+      "phase_offset": 0,
+      "origin_sec": 0.18,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "d11-5 Los Djs Timberos, Paky Madarena, Manana Club - Cuba me LLamo-c127b5d826acd7efe392fce958351b98.mp3"
     },
     {
       "id": 130,
