@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T08:01:46Z",
+  "updated_at": "2026-11-27T08:04:54Z",
   "yandex_public_url": "https://disk.yandex.ru/d/oWlbn5ZVhepCMA",
   "tracks": [
     {
@@ -1373,6 +1373,27 @@
       "irregular": 0,
       "breaks": [],
       "yandex_name": "4-4 Maykel Blanco y su Salsa Mayor - Te Escapaste-3ee45877076c82be710e3622bfd7fc75.mp3"
+    },
+    {
+      "id": 48,
+      "md5": "2d934e1a3d3096d1002cb65696849af4",
+      "filename": "- Astrud Gilberto - Mas Que Nada.mp3",
+      "title": "Astrud Gilberto - Mas Que Nada",
+      "artist": "Astrud Gilberto",
+      "duration_sec": null,
+      "file_size": 3766967,
+      "enabled": true,
+      "source_kind": "yandex",
+      "has_mirror": true,
+      "has_yandex": true,
+      "bpm": 182.0,
+      "bpm_raw": 182.0,
+      "phase_offset": 0,
+      "origin_sec": 0.05,
+      "engine": "tempocnn-phone",
+      "irregular": 0,
+      "breaks": [],
+      "yandex_name": "- Astrud Gilberto - Mas Que Nada-2d934e1a3d3096d1002cb65696849af4.mp3"
     },
     {
       "id": 40,
